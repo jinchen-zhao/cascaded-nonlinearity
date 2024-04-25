@@ -12,4 +12,4 @@ There are three main files:
 - `CascadeNL.py`: The nonlinear solvers for SHG and Kerr nonlinearity.
 - `SanityCheck.ipynb`: A sanity check to compare with Boyd's textbook, Agrawal's textbook, and experimental papers to ensure the accuracy of the nonlinear solver in `CascadeNL.py`.
 
-<img width="881" alt="Screenshot 2024-04-25 at 17 02 38" src="https://github.com/jinchen-zhao/cascaded-nonlinearity/assets/56393201/76de12f2-1cde-4df2-bd4b-7b1266a0a82f">
+<img width="880" alt="Screenshot 2024-04-25 at 18 07 11" src="https://github.com/jinchen-zhao/cascaded-nonlinearity/assets/56393201/17de4797-6dd4-473c-9a2b-9141c15bd4c0">
