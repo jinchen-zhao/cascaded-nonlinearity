@@ -11,3 +11,5 @@ There are three main files:
 - `Tutorial.ipynb`: The tutorial notebook as an introduction to cascaded nonlinearity. For illustrative purposes, we mainly have visualizations in this notebook, and the solver functions are in `CascadeNL.py`.
 - `CascadeNL.py`: The nonlinear solvers for SHG and Kerr nonlinearity.
 - `SanityCheck.ipynb`: A sanity check to compare with Boyd's textbook, Agrawal's textbook, and experimental papers to ensure the accuracy of the nonlinear solver in `CascadeNL.py`.
+
+<img width="979" alt="Screenshot 2024-04-25 at 16 59 32" src="https://github.com/jinchen-zhao/cascaded-nonlinearity/assets/56393201/8019fd53-9fde-465e-980e-e40eb2c3b48d">
