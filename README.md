@@ -2,7 +2,7 @@
 
 What does cascaded nonlinearity mean? We are cascading several $\chi^{(2)}$ nonlinear processes together to achieve a $\chi^{(3)}$ effect.
 
-Why do we want to do this? This approach enables a high level of tunability of the $\chi^{(3)}$ process: we can not only change the magnitude of $\chi^{(3)}$, but also its sign! Recall from class that $\chi_3$ from materials can only be positive. However, we can realize a negative effective $\chi^{(3)}$ through cascaded nonlinearity.
+Why do we want to do this? This approach enables a high level of tunability of the $\chi^{(3)}$ process: we can not only change the magnitude of $\chi^{(3)}$, but also its sign! Recall from class that $\chi^{(3)}$ from materials can only be positive. However, we can realize a negative effective $\chi^{(3)}$ through cascaded nonlinearity.
 
 These $\chi^{(2)}$ nonlinear processes need to be very inefficient to achieve this; i.e., they must have a very large phase mismatch, otherwise we will only observe a $\chi^{(2)}$ effect. We will use a highly phase-mismatched second harmonic generation (SHG) as an example. The intuition is rather simple: In phase-matched SHG, the fundamental wave is converted to the second harmonics with high efficiency. However, when the process is highly phase mismatched, the second harmonics will be converted back to the fundamental mode. This back action effectively leads to a nonlinear $\chi^{(3)}$ effect.
 
