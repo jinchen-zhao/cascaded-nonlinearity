@@ -13,3 +13,10 @@ There are three main files:
 - `SanityCheck.ipynb`: A sanity check to compare with Boyd's textbook, Agrawal's textbook, and experimental papers to ensure the accuracy of the nonlinear solver in `CascadeNL.py`.
 
 <img width="911" alt="Screenshot 2024-04-25 at 18 18 33" src="https://github.com/jinchen-zhao/cascaded-nonlinearity/assets/56393201/8a72de74-562d-462e-b203-71de7e8a3e47">
+
+### References
+
+1. Bache, M. (2017). Cascaded nonlinearities for ultrafast nonlinear optical science and applications. DTU - Department of Photonics Engineering.
+
+
+2. Jankowski, M., Langrock, C., Desiatov, B., Marandi, A., Wang, C., Zhang, M., Phillips, C. R., Lončar, M., & Fejer, M. M. (2020). Ultrabroadband nonlinear optics in nanophotonic periodically poled lithium niobate waveguides. Optica, 7(1), 40.
